@@ -11,5 +11,7 @@ using namespace std;
 
 int main() {
 	cout << "!!!HI KIDS!!!" << endl;
+	cout << "Testing the staging arena. Yes I mean arena!" << endl;
+	cout << "Don't move my project this time." << endl;
 	return 0;
 }
